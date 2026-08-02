@@ -9,6 +9,7 @@ No prompt collections. Each release documents its inputs, outputs, compatibility
 | Resource | What it does | Compatibility | Release |
 | --- | --- | --- | --- |
 | [Reference → System](https://github.com/AndreXes03/reference-to-system) | Derives a traceable atomic UI system from product intent, roles, flows, states and constraints. | Codex · Claude Code · Figma workflow | [v0.1.0](https://github.com/AndreXes03/reference-to-system/releases/tag/v0.1.0) |
+| [Functional → Refined](https://github.com/AndreXes03/refine-frontend) | Refines working product interfaces with a persistent visual contract, minimal code delta and verified before/after evidence. | Codex · Claude Code | [v0.1.0](https://github.com/AndreXes03/refine-frontend/releases/tag/v0.1.0) |
 
 ## Creative production
 
